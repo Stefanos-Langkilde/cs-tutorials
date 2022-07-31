@@ -1,0 +1,15 @@
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Queries\bin\Debug\net6.0\Queries.exe
+C:\Users\Stefan\source\repos\Queries\bin\Debug\net6.0\Queries.deps.json
+C:\Users\Stefan\source\repos\Queries\bin\Debug\net6.0\Queries.runtimeconfig.json
+C:\Users\Stefan\source\repos\Queries\bin\Debug\net6.0\Queries.dll
+C:\Users\Stefan\source\repos\Queries\bin\Debug\net6.0\Queries.pdb
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.dll
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\refint\Queries.dll
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.pdb
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\Queries.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\Queries\obj\Debug\net6.0\ref\Queries.dll
