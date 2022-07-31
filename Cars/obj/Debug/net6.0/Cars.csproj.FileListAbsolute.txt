@@ -1,0 +1,17 @@
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\fuel.csv
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\Cars\obj\Debug\net6.0\ref\Cars.dll
+C:\Users\Stefan\source\repos\Cars\bin\Debug\net6.0\manufacturers.csv
